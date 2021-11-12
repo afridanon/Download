@@ -9,7 +9,7 @@
 <h1>Learn Python From Android</h1>
 <h4><a href="https://play.google.com/store/apps/details?id=ru.iiec.pydroid3">App Link</a></h4>
 
-<h1>Learn Python From Android</h1>
+
 
 ## Download JAVA For Windows
 
