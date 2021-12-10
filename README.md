@@ -3,7 +3,7 @@
 <a href="https://play.google.com/store/apps/details?id=ru.iiec.cxxdroid&hl=en_IN&gl=US" > Click Here</a>
 
 <h4>Tutorial </h4>
-<a href="afridanon.github.io">Click Here </a>
+<a href="https://afridanon.github.io/">TUTORIAL Video </a>
 
 
 
